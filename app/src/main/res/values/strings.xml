@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">I DEWA AYU LALITA MARMIKA_1202154355_MODUL2</string>
+    <string name="pilih_menu">PILIH MENU:</string>
+    <string name="pesan">PESAN</string>
+    <string name="take_out">Take Away</string>
+    <string name="dine_in">Dine In</string>
+    <string name="identitas_pemesanan">IDENTITAS PEMESANAN:</string>
+    <string name="phone">Phone</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="catatan">Catatan</string>
+    <string name="pilih_pesanan">PILIH PESANAN</string>
+    <string name="detail_customer">DETAIL CUSTOMER: </string>
+    <string name="no_meja">No Meja:</string>
+    <string-array name="meja">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+        <item>Meja 6</item>
+    </string-array>
+</resources>
+
